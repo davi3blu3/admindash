@@ -1,0 +1,22 @@
+{
+  "name": "admin-dashboard",
+  "version": "1.0.0",
+  "description": "creating an admin dashboard from a MDB tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davi3blu3/admindash.git"
+  },
+  "author": "davi3blu3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davi3blu3/admindash/issues"
+  },
+  "homepage": "https://github.com/davi3blu3/admindash#readme",
+  "dependencies": {
+    "mdbootstrap": "^4.5.0"
+  }
+}
